@@ -156,9 +156,9 @@ const ShipDimensionsChart = ({ data }) => {
             <h3>Analysis of Ship Types and Sizes:</h3>
             
             <h4>Ship Types and Sizes</h4>
-            <p>Carriers (orange squares) tend to be the largest ships, with the greatest length and beam. 
-               Battleships (blue circles) are also large, but generally smaller than carriers. 
-               Cruisers (red triangles) are typically smaller than both carriers and battleships.</p>
+            <p>Carriers (blue circles) tend to be the largest ships, with the greatest length and beam. 
+               Battleships (orange squares) are also large, but generally smaller than carriers. 
+               Cruisers (green triangles) are typically smaller than both carriers and battleships.</p>
       
             <h4>Length vs Beam Relationship</h4>
             <p>There's a positive correlation between ship length and beam across all ship types. 
@@ -179,8 +179,7 @@ const ShipDimensionsChart = ({ data }) => {
                length to large carriers over 800 feet long.</p>
       
             <h4>Beam Limitations</h4>
-            <p>There seems to be an upper limit to ship beam around 140-150 feet, possibly due to 
-               practical constraints like canal or port sizes.</p>
+            <p>There seems to be an upper limit to ship beam around 140-150 feet.</p>
           </div>
         </div>
       );

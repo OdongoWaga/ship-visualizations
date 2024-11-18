@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ship-visualizations/static/css/main.f973f7fe.css",
+    "main.js": "/ship-visualizations/static/js/main.fb6fb3a6.js",
+    "static/js/453.91b24f96.chunk.js": "/ship-visualizations/static/js/453.91b24f96.chunk.js",
+    "index.html": "/ship-visualizations/index.html",
+    "main.f973f7fe.css.map": "/ship-visualizations/static/css/main.f973f7fe.css.map",
+    "main.fb6fb3a6.js.map": "/ship-visualizations/static/js/main.fb6fb3a6.js.map",
+    "453.91b24f96.chunk.js.map": "/ship-visualizations/static/js/453.91b24f96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f973f7fe.css",
+    "static/js/main.fb6fb3a6.js"
+  ]
+}

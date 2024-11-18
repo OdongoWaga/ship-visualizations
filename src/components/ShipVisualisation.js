@@ -1,8 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
 
-
-
-
 import DisplacementHistogram from './displacementHistogram';
 
 const ShipVisualization = ({ data }) => {
